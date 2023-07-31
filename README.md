@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishm22&label=Profile%20views&color=0e75b6&style=flat" alt="ashishm22" /> </p>
 
 - 🌱 I’m currently working my Backend skill
-- 
 - 📫 How to reach me **ashish.munot22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
