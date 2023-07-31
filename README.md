@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Munot</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding-image" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishm22&label=Profile%20views&color=0e75b6&style=flat" alt="ashishm22" /> </p>
 
-- 🌱 I’m currently learning **Backend development**
-
+- 🌱 I’m currently working my Backend skill
+- 
 - 📫 How to reach me **ashish.munot22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
